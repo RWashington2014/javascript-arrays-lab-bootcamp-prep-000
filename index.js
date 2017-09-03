@@ -35,4 +35,3 @@ function appendKitten(name){
     return newkittens
 
 }
-
